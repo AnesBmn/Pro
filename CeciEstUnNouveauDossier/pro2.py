@@ -3,3 +3,8 @@
 om = 10
 WHATSUP = 33
 hello = 00
+
+STRAIGHT = 00
+OUTTA = 00
+CPH = 00
+"YOOOO!"
