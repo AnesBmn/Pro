@@ -1,8 +1,5 @@
 a=222
-<<<<<<< HEAD
 
-# Arrêtez de fumer la connexion en allant sur Twitch
+# arretez de fumer la connexion sur le localTest
 
 
-=======
->>>>>>> Dev
